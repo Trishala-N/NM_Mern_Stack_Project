@@ -131,7 +131,6 @@ Technologies Used
 - Version Control: Git
 
 Contributors
-- Jai J
 - Niroshini v
 - Trishala
 - Vidya J
